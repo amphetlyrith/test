@@ -31,7 +31,7 @@
 
         "TEXT_NORMAL": ["#dde3f5"],
         "TEXT_MUTED": ["#8899cc"],
-        "TEXT_LINK": ["#a78bfa"],
+        "TEXT_LINK": ["#ff00ff"],
         "TEXT_DANGER": ["#f87171"],
         "HEADER_PRIMARY": ["#5b7ec7"],
         "HEADER_SECONDARY": ["#4a6ab5"],
