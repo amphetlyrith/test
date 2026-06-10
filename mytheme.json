@@ -1,15 +1,15 @@
 {
-    "name": "Sukashi Blue",
-    "description": "Blue & blue-purple theme with illustration background",
+    "name": "L",
+    "description": "My themes.",
     "authors": [
         {
-            "name": "your name",
-            "id": "your Discord ID"
+            "name": "amphetlyrith",
+            "id": "404 not found"
         }
     ],
     "spec": 2,
     "background": {
-        "url": "https://i.imgur.com/8BrCB9i.png",
+        "url": "https://i.imgur.com/bF81KQk.jpeg",
         "alpha": 0.45,
         "color": "#0d0f1e"
     },
